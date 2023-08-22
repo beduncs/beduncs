@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ben
 
 <p align="center">
-  <img src="prompt.png" />
+  <img src="prompt.svg" />
 </p>
 
 ## About Me
