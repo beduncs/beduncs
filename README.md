@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Users/benduncan/Documents/beduncs/prompt.png" />
+  <img src="prompt.png" />
 </p>
 
 # Hi there! 👋 I'm Ben
