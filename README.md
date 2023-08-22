@@ -1,17 +1,8 @@
-<p align="center">
-  <img src="prompt.png" />
-</p>
-
 # Hi there! 👋 I'm Ben
 
 <p align="center">
-<a href="https://www.linkedin.com/in/bhduncan/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://medium.com/@haydenduncan">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
-<p>
+  <img src="prompt.png" />
+</p>
 
 ## About Me
 
@@ -45,3 +36,18 @@ I'm a passionate Machine Learning Engineer and Product Owner with a knack for bu
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=beduncs&show_icons=true&theme=radical">
 </p>
+
+## Let's Connect!
+
+I'm always excited to connect with fellow tech enthusiasts, business minds, and open-source collaborators. Feel free to reach out to me.
+
+<p align="center">
+<a href="https://www.linkedin.com/in/bhduncan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://medium.com/@haydenduncan">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+<p>
+
+Looking forward to exploring new opportunities and creating impactful solutions together!
